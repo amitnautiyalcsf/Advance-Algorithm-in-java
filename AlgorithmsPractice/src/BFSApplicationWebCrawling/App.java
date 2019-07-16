@@ -8,7 +8,7 @@ public class App {
 	
 	
 	WebCrawling crawling = new WebCrawling();
-	String rootUrl="http://udemy.com";
+	String rootUrl="http://google.com";
 	crawling.discoverWeb(rootUrl);
 	
 
