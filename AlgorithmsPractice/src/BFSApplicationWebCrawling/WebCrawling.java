@@ -1,4 +1,4 @@
-package WebCrawlingApplication;
+package BFSApplicationWebCrawling;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

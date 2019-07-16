@@ -1,4 +1,4 @@
-package WebCrawlingApplication;
+package BFSApplicationWebCrawling;
 
 public class App {
 	
