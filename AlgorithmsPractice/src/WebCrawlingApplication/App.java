@@ -1,4 +1,4 @@
-package com.Itc.Algo.BFS.WebCrawlingApplication;
+package WebCrawlingApplication;
 
 public class App {
 	

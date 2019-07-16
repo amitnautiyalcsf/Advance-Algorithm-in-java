@@ -1,4 +1,4 @@
-package com.Itc.Algo.BFS;
+package BreadthFirstSeacrhAlgo;
 
 import java.util.ArrayList;
 import java.util.List;

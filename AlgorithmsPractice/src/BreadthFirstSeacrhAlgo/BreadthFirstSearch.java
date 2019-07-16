@@ -1,4 +1,4 @@
-package com.Itc.Algo.BFS;
+package BreadthFirstSeacrhAlgo;
 
 import java.util.LinkedList;
 import java.util.Queue;

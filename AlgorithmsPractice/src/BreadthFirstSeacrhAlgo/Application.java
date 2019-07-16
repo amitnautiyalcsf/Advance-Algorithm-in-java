@@ -1,4 +1,4 @@
-package com.Itc.Algo.BFS;
+package BreadthFirstSeacrhAlgo;
 
 public class Application {
 
